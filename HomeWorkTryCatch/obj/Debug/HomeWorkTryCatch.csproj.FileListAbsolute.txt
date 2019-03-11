@@ -1,0 +1,7 @@
+C:\Users\azat\source\repos\HomeWorkTryCatch\HomeWorkTryCatch\bin\Debug\HomeWorkTryCatch.exe.config
+C:\Users\azat\source\repos\HomeWorkTryCatch\HomeWorkTryCatch\bin\Debug\HomeWorkTryCatch.exe
+C:\Users\azat\source\repos\HomeWorkTryCatch\HomeWorkTryCatch\bin\Debug\HomeWorkTryCatch.pdb
+C:\Users\azat\source\repos\HomeWorkTryCatch\HomeWorkTryCatch\obj\Debug\HomeWorkTryCatch.csprojAssemblyReference.cache
+C:\Users\azat\source\repos\HomeWorkTryCatch\HomeWorkTryCatch\obj\Debug\HomeWorkTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\azat\source\repos\HomeWorkTryCatch\HomeWorkTryCatch\obj\Debug\HomeWorkTryCatch.exe
+C:\Users\azat\source\repos\HomeWorkTryCatch\HomeWorkTryCatch\obj\Debug\HomeWorkTryCatch.pdb
